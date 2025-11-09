@@ -1,0 +1,40 @@
+﻿# Flutter / Dart
+.dart_tool/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+build/
+pubspec.lock
+
+# IntelliJ / Android Studio / VSCode
+.idea/
+.vscode/
+*.iml
+
+# Android
+android/.gradle
+android/key.properties
+
+# iOS
+ios/Pods/
+ios/.symlinks
+ios/flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+
+# Generated files
+*.lock
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Env / secrets
+.env
+.env.*
+/secrets.json
+
+# Misc
+*.keystore
+*.p12
